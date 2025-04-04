@@ -24,7 +24,7 @@ const projects: Project[] = [
     {
         title: 'Flutter Weather App',
         description: 'This app is a weather forecast application that uses the devices current location, converts it into a city name, it fetches the weather data using the OpenWeatherMap API. It displays the current and daily weather data on the UI and it shows animated visuals using a lottie plugin.',
-        link: 'https://github.com/narmeenk97/FlutterWeatherApp/settings',
+        link: 'https://github.com/narmeenk97/FlutterWeatherApp',
         technologyUsed: 'Flutter, Dart, OpenWeatherAPI, Lottie, http, geolocator, geocoding',
     },
     {
