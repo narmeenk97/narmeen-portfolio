@@ -7,7 +7,7 @@ export default function Resume() : JSX.Element {
             <div className='row'>
                 <div className='col-12'>
                     <iframe
-                        src='/data/docs/Resume.pdf'
+                        src='/data/docs/Narmeen_Resume.pdf'
                         style={{ width: '100%', height: '800px', border: 'none' }}
                         title='Resume'
                         >
